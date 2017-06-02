@@ -131,7 +131,7 @@ I still try to seek out these best practices whenever I’m exploring new techno
 
 *Transl: The perfect is the enemy of the good*
 
-As a sort of post-hoc benefit: now that I've stopped spending so much time looking for guidelines, I've started to develop my own architecture using the same philosophies that underlie most guidelines (namely: extensibility, readability, clear separation of concerns, etc.), and I think I'm better of for it.
+As a sort of post-hoc benefit: now that I've stopped spending so much time looking for guidelines, I've started to develop my own architecture using the same philosophies that underlie most guidelines (namely: extensibility, readability, clear separation of concerns, etc.), and I think I'm better off for it.
  
 [1] - On a lot of projects this is still the only thing that matters to me. For example when I'm trying out new technologies.
 
